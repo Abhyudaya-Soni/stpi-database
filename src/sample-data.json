@@ -1,0 +1,22 @@
+{
+"customers": {
+	"customer_id_1": {
+		"Sno":1,
+		"Customer Name": "John Doe",
+		"Services": "Incubation", 
+		"Service Type": "Raw", 
+		"Service Start Date": "2023-01-01", 
+		"Service End Date": "2023-01-01",
+		"Renewal Due Date": "2023-01-01"
+},
+	"customer_id_2": {
+		"Sno":2,
+		"Customer Name": "John Doe",
+		"Services": "Incubation", 
+		"Service Type": "Raw", 
+		"Service Start Date": "2023-01-01", 
+		"Service End Date": "2023-01-01",
+		"Renewal Due Date": "2023-01-01"
+}
+}
+}
