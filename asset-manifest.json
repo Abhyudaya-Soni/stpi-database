@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/stpi-database/static/css/main.9033ab06.css",
+    "main.js": "/stpi-database/static/js/main.00ac8293.js",
+    "static/js/787.611967c5.chunk.js": "/stpi-database/static/js/787.611967c5.chunk.js",
+    "static/media/logo.png": "/stpi-database/static/media/logo.206d934837c08d6e0ed4.png",
+    "index.html": "/stpi-database/index.html",
+    "main.9033ab06.css.map": "/stpi-database/static/css/main.9033ab06.css.map",
+    "main.00ac8293.js.map": "/stpi-database/static/js/main.00ac8293.js.map",
+    "787.611967c5.chunk.js.map": "/stpi-database/static/js/787.611967c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9033ab06.css",
+    "static/js/main.00ac8293.js"
+  ]
+}
